@@ -31,12 +31,20 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 **CIRCUIT DIAGRAM:**
 
 
+![IMG_20260329_083757](https://github.com/user-attachments/assets/042d1e3d-204d-488b-8b67-e838cf1d3182)
 
 **TABULATION:**
 
+![IMG_20260330_103310](https://github.com/user-attachments/assets/e40e5504-52d3-4996-aaa3-07ceef9e1e87)
 
+**Calculation:**
+![IMG_20260330_103347](https://github.com/user-attachments/assets/fa0ebd8e-2d88-4497-85a1-25e36b1df043)
 
+![IMG_20260329_083817](https://github.com/user-attachments/assets/07610696-2cef-427e-858b-1cb0fb74cd14)
 
+**Wave output:**
+
+![IMG_20260330_103509](https://github.com/user-attachments/assets/f97dea6c-8f33-424d-87ad-72e812d9b8f9)
 
 
 **PROCEDURE:**
