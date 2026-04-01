@@ -56,6 +56,7 @@ d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
+![IMG-20260401-WA0021](https://github.com/user-attachments/assets/74398b48-930e-4894-9a9e-f06977687bd3)
 
 
 **RESULT:**
